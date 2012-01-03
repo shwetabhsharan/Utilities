@@ -1,5 +1,5 @@
 """
-Purpose: Encrypt and decrypt text using AES Encryption
+    Purpose: Encrypt and decrypt text using AES Encryption
 """
 import os, random, struct
 from Crypto.Cipher import AES
